@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tour-of-heroes-ebd69": {
+      "hosting": {
+        "tour-of-heros": [
+          "tour-of-heroes-ebd69"
+        ]
+      }
+    }
+  }
+}
